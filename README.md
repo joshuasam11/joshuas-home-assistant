@@ -6,19 +6,34 @@ Home Assistant MQTT Integration Assignment - Joshua S
 ---
 
 ## 👤 Student Details
-- **Name:** Joshua S 
-- **Register Number:** 42612024 
+- **Name:** ```Joshua S```
+- **Register Number:** ```42612024```
 - **MQTT Topic Used:** `home/joshuas-2025/sensor`  
 
 ---
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end integration of **Python**, **MQTT**, and **Home Assistant**.  
-A Python script publishes three sensor values to a unique MQTT topic.  
-Home Assistant reads these values in real-time and displays them on a live dashboard.
+This project demonstrates integration between:
+
+- **Python script** (sensor publisher)
+- **Mosquitto MQTT broker**
+- **Home Assistant**
+- **Docker**
+- **Live sensor visualization on Home Assistant Dashboard**
 
 This submission completes all tasks required by **Nakshatra Automation**.
 
+
+---
+
+## 🛠 Tech Stack
+- **Python**
+- **Paho MQTT**
+- **Docker Desktop (WSL2)**
+- **Mosquitto MQTT Broker**
+- **Home Assistant**
+- **VS Code**
+  
 ---
 
 ## 🧩 Components Used
