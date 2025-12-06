@@ -100,7 +100,7 @@ This submission completes all tasks required by **Nakshatra Automation**.
 
 ### ✔ Extra Sensor Used
 
-```Gas Level Sensor: represents gas concentration (ppm), commonly used in safety and IoT monitoring systems.```
+```Gas Level Sensor: represents gas concentration(ppm), commonly used in safety and IoT monitoring systems.```
 
 
 ---
