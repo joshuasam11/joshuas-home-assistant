@@ -21,8 +21,6 @@ This project demonstrates integration between:
 - **Docker**
 - **Live sensor visualization on Home Assistant Dashboard**
 
-This submission completes all tasks required by **Nakshatra Automation**.
-
 
 ---
 
